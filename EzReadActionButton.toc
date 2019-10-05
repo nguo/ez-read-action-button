@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: EzReadActionButton
+## Author: xgooy
+## Version: 0.0.1
+## Notes: Changes hotkey font and color for more readable action buttons
+
+main.lua
+configs.lua
